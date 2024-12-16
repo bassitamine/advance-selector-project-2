@@ -1,0 +1,30 @@
+.casablanca{
+    color: red; font-style: italic;
+}
+.city{
+    color: green;
+}
+input[type="text"]{
+    border: 4px solid red;
+}
+input[type="email"]{
+    border: 5px solid green;
+}
+input[type="password"]{
+    border: 6px solid red;
+}
+ol>li{
+    color: red;
+}
+ul>li{
+    color: green;
+}
+p::first-letter{
+    color: red;
+    font-size: 30px;
+    font-family: cursive;
+}
+h2:hover{
+    color: green;
+    font-family: monospace;
+}
